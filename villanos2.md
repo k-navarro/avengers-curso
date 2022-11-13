@@ -1,3 +1,5 @@
 # nuevos villanos 
 
-*nuevos vilanos 
+* Dr. Doom
+* Red Skull
+* Dr . Herrea
